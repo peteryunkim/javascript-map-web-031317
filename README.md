@@ -7,7 +7,7 @@
 3. Explain how `map()` builds on `reduce()`
 
 ## Introduction
-In a lot of code you'll be writing as a soon-to-be JS expert, you'll be iterating over arrays. Sometimes, you'll want to apply a transformation to the elements in the array. We can do this using `for` loops, but writing all of that stuff gets tedious after a while. Let's create our own helper method called `map()` to make things a little easier!
+In a lot of code you'll be writing as a soon-to-be JS expert, you'll be iterating over arrays. Sometimes, you'll want to apply a transformation to the elements in the array. We c an do this using `for` loops, but writing all of that stuff gets tedious after a while. Let's create our own helper method called `map()` to make things a little easier!
 
 ## Map to the unknown
 ![Some crummy old map](https://i.ytimg.com/vi/gKVIWyj2QnU/maxresdefault.jpg)
